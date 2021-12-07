@@ -218,21 +218,21 @@ div.vx-plantuml-graph {
 }
 
 ::-webkit-scrollbar {
-    background-color: #2a2f36;
+    background-color: #073642;
     width: 14px;
     height: 14px;
     border: none;
 }
 
 ::-webkit-scrollbar-corner {
-    background-color: #2a2f36;
+    background-color: #073642;
 }
 
 ::-webkit-scrollbar-button {
     /* This selector affects the styling of both the up & down and left & right buttons of a scrollbar */
     height: 14px;
     width: 14px;
-    background-color: #2a2f36;
+    background-color: #073642;
 }
 
 ::-webkit-scrollbar-button:hover {
