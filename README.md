@@ -5,6 +5,9 @@
 Solarized-dark
 ![Solarized-dark](https://user-images.githubusercontent.com/6752679/144820896-481a1e7a-0330-40a4-ac0d-10df3900ae61.png)
 
+Solarized-light
+![Solarized-light](https://user-images.githubusercontent.com/6752679/145747813-b02fe2e9-d0fc-4fdc-b951-c29fcb85b875.png)
+
 
 # 安装方法
 把文件夹放到vnote的主题文件夹里, 比如linux是 `~/.local/share/VNote/VNote/themes/`.
