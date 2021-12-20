@@ -9,7 +9,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #e06c75;
+    color: #CA4A17;
     font-weight: bold;
     margin-top: 20px;
     margin-bottom: 10px;
@@ -46,7 +46,7 @@ h6 {
 }
 
 a {
-    color: #61afef;
+    color: #2AA198;
     margin: 0;
     padding: 0;
     vertical-align: baseline;
@@ -96,7 +96,7 @@ pre {
 
 code {
     font-family: "YaHei Consolas Hybrid", Consolas, Monaco, "Andale Mono", Monospace, "Courier New";
-    color: #98c379;
+    color: #D7BA7D;
     word-break: break-word;
 }
 
@@ -104,7 +104,7 @@ pre code {
     display: block;
     padding-left: 0.5em;
     padding-right: 0.5em;
-    color: #98c379;
+    color: #D7BA7D;
     background-color: #073642;
     line-height: 1.5;
     font-family: "YaHei Consolas Hybrid", Consolas, Monaco, "Andale Mono", Monospace, "Courier New";
@@ -148,7 +148,7 @@ table {
 
 table tr {
    border-top: 1px solid #4c5562;
-   background-color: #313740;
+   background-color: #002B36;
    margin: 0;
    padding: 0;
 }
@@ -240,26 +240,26 @@ div.vx-plantuml-graph {
 }
 
 ::-webkit-scrollbar-button:active {
-    background-color: #313740;
+    background-color: #002B36;
 }
 
 ::-webkit-scrollbar-track {
     /* This selector affects the styling of the area in the scrollbar between the two buttons */
-    background-color: #2a2f36;
+    background-color: #073642;
 }
 
 ::-webkit-scrollbar-thumb {
     /* This selector affects the styling of draggable element of the scollbar */
     border: none;
-    background-color: #3b424c;
+    background-color: #304A50;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background-color: #535d6c;
+    background-color: #465356;
 }
 
 ::-webkit-scrollbar-thumb:active {
-    background-color: #4c5562;
+    background-color: #4C666C;
 }
 
 ::-webkit-scrollbar-button:horizontal:increment {
