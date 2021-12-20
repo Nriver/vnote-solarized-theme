@@ -12,7 +12,7 @@
             "text-color" : "#657B83",
             "background-color" : "#FDF6E3",
             "selected-text-color" : "#657B83",
-            "selected-background-color" : "#EEE8D5"
+            "selected-background-color" : "#b0bec5"
         },
         "CursorLine" : {
             "background-color" : "#e4decc"
@@ -72,7 +72,7 @@
             "text-color" : "#657B83",
             "background-color" : "#FDF6E3",
             "selected-text-color" : "#657B83",
-            "selected-background-color" : "#EEE8D5"
+            "selected-background-color" : "#b0bec5"
         },
         "Preview" : {
             "background-color" : "#b0bec5"
@@ -80,32 +80,32 @@
     },
     "markdown-syntax-styles" : {
         "H1" : {
-            "text-color" : "#e06c75",
+            "text-color" : "#CA8465",
             "bold" : true,
             "font-size" : 17
         },
         "H2" : {
-            "text-color" : "#e06c75",
+            "text-color" : "#CA8465",
             "bold" : true,
             "font-size" : 16
         },
         "H3" : {
-            "text-color" : "#e06c75",
+            "text-color" : "#CA8465",
             "bold" : true,
             "font-size" : 15
         },
         "H4" : {
-            "text-color" : "#e06c75",
+            "text-color" : "#CA8465",
             "bold" : true,
             "font-size" : 14
         },
         "H5" : {
-            "text-color" : "#e06c75",
+            "text-color" : "#CA8465",
             "bold" : true,
             "font-size" : 13
         },
         "H6" : {
-            "text-color" : "#e06c75",
+            "text-color" : "#CA8465",
             "bold" : true,
             "font-size" : 12
         },
@@ -114,20 +114,20 @@
             "background-color" : "#864046"
         },
         "LIST_BULLET" : {
-            "text-color" : "#e06c75",
+            "text-color" : "#CA8465",
             "bold" : true
         },
         "LIST_ENUMERATOR" : {
-            "text-color" : "#e06c75"
+            "text-color" : "#CA8465"
         },
         "LINK" : {
-            "text-color" : "#61afef"
+            "text-color" : "#2AA198"
         },
         "AUTO_LINK_URL" : {
-            "text-color" : "#61afef"
+            "text-color" : "#2AA198"
         },
         "AUTO_LINK_EMAIL" : {
-            "text-color" : "#61afef"
+            "text-color" : "#2AA198"
         },
         "IMAGE" : {
             "text-color" : "#4883b3"
@@ -195,8 +195,8 @@
             "font-family" : "YaHei Consolas Hybrid, Consolas, Monaco, Andale Mono, Monospace, Courier New"
         },
         "TABLEBORDER" : {
-            "text-color" : "#e06c75",
-            "background-color" : "#444b58"
+            "text-color" : "#CA8465",
+            "background-color" : "#E4DECC"
         }
    }
 }

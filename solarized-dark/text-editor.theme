@@ -136,7 +136,7 @@
             "text-color" : "#56b6c2"
         },
         "CODE" : {
-            "text-color" : "#98c379",
+            "text-color" : "#D7BA7D",
             "font-family" : "YaHei Consolas Hybrid, Consolas, Monaco, Andale Mono, Monospace, Courier New"
         },
         "EMPH" : {
@@ -158,12 +158,12 @@
             "text-color" : "#7e899d"
         },
         "VERBATIM" : {
-            "text-color" : "#98c379",
+            "text-color" : "#D7BA7D",
             "font-family" : "YaHei Consolas Hybrid, Consolas, Monaco, Andale Mono, Monospace, Courier New"
         },
         "//comment" : "Please modify the syntax highlight theme as well if you change this",
         "FENCEDCODEBLOCK" : {
-            "text-color" : "#98c379",
+            "text-color" : "#D7BA7D",
             "font-family" : "YaHei Consolas Hybrid, Consolas, Monaco, Andale Mono, Monospace, Courier New"
         },
         "BLOCKQUOTE" : {
