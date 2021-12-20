@@ -148,13 +148,13 @@ table {
 
 table tr {
    border-top: 1px solid #4c5562;
-   background-color: #313740;
+   background-color: #efe8d6;
    margin: 0;
    padding: 0;
 }
 
 table tr:hover {
-   background-color: #3b424c;
+   background-color: #FDF6E3;
 }
 
 table tr th {
@@ -236,30 +236,30 @@ div.vx-plantuml-graph {
 }
 
 ::-webkit-scrollbar-button:hover {
-    background-color: #535d6c;
+    background-color: #918F8A;
 }
 
 ::-webkit-scrollbar-button:active {
-    background-color: #313740;
+    background-color: #65625B;
 }
 
 ::-webkit-scrollbar-track {
     /* This selector affects the styling of the area in the scrollbar between the two buttons */
-    background-color: #2a2f36;
+    background-color: #FDF6E3;
 }
 
 ::-webkit-scrollbar-thumb {
     /* This selector affects the styling of draggable element of the scollbar */
     border: none;
-    background-color: #3b424c;
+    background-color: #C0BCB0;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background-color: #535d6c;
+    background-color: #918F8A;
 }
 
 ::-webkit-scrollbar-thumb:active {
-    background-color: #4c5562;
+    background-color: #65625B;
 }
 
 ::-webkit-scrollbar-button:horizontal:increment {
