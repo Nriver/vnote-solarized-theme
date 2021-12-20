@@ -10,7 +10,8 @@
         "markdown-editor-highlight-theme" : "Solarized Light",
         "display_name" : "Solarized-light",
         "//comment" : "Display name for different locales",
-        "display_name_zh_CN" : "Solarized-light"
+        "display_name_zh_CN" : "Solarized-light",
+        "author": "nriver",
     },
     "palette" : {
         "bg1_1" : "#FFFFF5",

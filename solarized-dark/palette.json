@@ -10,7 +10,8 @@
         "markdown-editor-highlight-theme" : "Solarized Dark",
         "display_name" : "Solarized-dark",
         "//comment" : "Display name for different locales",
-        "display_name_zh_CN" : "Solarized-dark"
+        "display_name_zh_CN" : "Solarized-dark",
+        "author": "nriver",
     },
     "palette" : {
         "bg1_1" : "#002b36",
